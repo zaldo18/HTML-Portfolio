@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-📍 Philippines • 💼 3+ Years IT Support & Network Operations Experience
+📍 Philippines • 💼 5+ Years IT Support & Network Operations Experience
 </p>
 
 ---
@@ -13,7 +13,7 @@
 <!-- PROFESSIONAL SUMMARY -->
 ## 👨‍💻 Professional Summary
 
-IT Support and Network Specialist with **3+ years of experience in enterprise IT environments**, providing end-user support, infrastructure troubleshooting, and IT asset management.
+IT Support and Network Specialist with **8+ years of experience in enterprise IT environments**, providing end-user support, infrastructure troubleshooting, and IT asset management.
 
 Currently transitioning into **Cloud Engineering**, focusing on **Microsoft Azure and AWS**, with hands-on labs in virtualization, cloud deployment, and infrastructure services.
 
