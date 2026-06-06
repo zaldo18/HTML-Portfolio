@@ -76,7 +76,7 @@ Currently transitioning into **Cloud Engineering**, focusing on **Microsoft Azur
 ## 📚 Certifications & Learning Path
 
 - 🎯 Microsoft Azure Administrator (AZ-104) — *In Progress*
-- ☁️ AWS Cloud Practitioner — *In Progress*
+- ☁️ AWS Certified Cloud Practitioner
 - 📖 Linux fundamentals for cloud environments
 - ⚙️ Cloud infrastructure and automation basics
 
@@ -118,7 +118,7 @@ To transition into a **Cloud Engineer role**, leveraging my IT infrastructure an
   <a href="https://linkedin.com/in/henricson-austria-a53aaa126?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Cloud%20Profile-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.austria.henricson26@gmail.com">
+  <a href="mailto:austria.henricson26@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
